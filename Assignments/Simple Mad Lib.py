@@ -15,4 +15,4 @@ Noun_3=input("Give me one me Noun:")
 #ask forr a emotion
 emotion=input("Give me an emostion:")
 
-Print("a")
+Print("")
