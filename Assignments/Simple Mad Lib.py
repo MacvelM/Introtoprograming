@@ -18,10 +18,10 @@ adverb = input("Give me an adverb: ")
 # ask for emotion
 emotion = input("Give me an emotion: ")
 
-print("In a " + Adjective_1 + " world, there was a " + Adjective_2 + " " + Noun_1 +
-      " who loved to " + Verb_1 + " " + adverb +
-      ". One day, a " + Adjective_3 + " " + Noun_2 +
-      " showed up and tried to " + Verb_2 + " the " + Noun_3 +
-      ". Everyone felt very " + emotion +
-      ", and nothing was ever the same again.")
-
+print("In a " + Adjective_1 + " world,\n"
+      "there was a " + Adjective_2 + " " + Noun_1 + "\n"
+      "who loved to " + Verb_1 + " " + adverb + ".\n"
+      "One day, a " + Adjective_3 + " " + Noun_2 + "\n"
+      "showed up and tried to " + Verb_2 + " the " + Noun_3 + ".\n"
+      "Everyone felt very " + emotion + ",\n"
+      "and nothing was ever the same again.")
