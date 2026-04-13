@@ -7,7 +7,6 @@ how_they_look=input("what color is " + " " + favorte_animel+":")
 print(" ")
 print(" ")
 
-
 #printing there responce
 print("Your favorte animel is " + " " + favorte_animel)
 print("You like them because" + " " + why_they_like)
